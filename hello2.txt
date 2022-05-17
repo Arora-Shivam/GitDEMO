@@ -1,7 +1,7 @@
-
+<<<<<<< HEAD
 Shivam is here
-
+=======
 Ritesh  he
 Helle World
-
+>>>>>>> d96a89cc0595ca96fc0e5857429a5fab8924a24d
 
